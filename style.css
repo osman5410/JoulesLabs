@@ -1,0 +1,388 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+
+}
+* p{
+    margin-bottom: 0;
+}
+/* navigation start */
+.nv{
+    box-shadow: 3px 3px 5px rgb(219, 219, 219);
+    padding: 15px 0px;
+}
+.logo_img{
+    height: 33px;
+    width: 155px;
+}
+/* navigation End */
+
+
+
+
+
+
+
+
+
+
+/* ####################
+    head section start
+   #################### */
+.background-image-1{
+    /* background-image:url(https://jouleslabs.com/wp-content/uploads/2021/07/hero-bg.png); */
+    background-color: #F8F9FE;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: center center;
+}
+.head-text {
+    margin-top: 120px;
+}
+.head-text>span{
+    color: #ffb300;
+    padding: 16px 35px;
+    border:1px solid #f6bf40;
+    border-radius: 30px;
+}
+.head-text>h1{
+    margin-top: 35px;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 70px;
+}
+
+.head-text>p{
+    margin-top: 50px;
+    font-size: 18px;
+    line-height: 30px;
+    color: #575758;
+}
+.btn-2{
+    margin-top: 30px;
+    background-color: #02549D;
+    font-size: 18px;
+}
+.head-image{
+    margin-top: 90px;
+}
+.btn-3{
+    color: #02549D;
+    border-radius: 50%;
+    padding:22px 25px;
+    background-color: #fff;
+    font-size: 35px;
+    text-align: center;
+}
+.text-h5 {
+    color: #4D4D4D;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+
+
+.section-2{
+    background-color: #F8F9FE;
+}
+.card-1:hover{
+    box-shadow: 0px 0px 8px rgba(154, 154, 154, 0.684);
+}
+.card-1{
+    border-radius: 10px;
+    transition: 0.50s;
+    background-color: #ffff;
+    text-align: center;
+    padding:45px 20px ;
+}
+.card-1>.hghg{
+    font-size: 40px;
+    background-color: #e7ebfb;
+    border-radius: 50%;
+    color: #3F7DB5;
+    padding: 13px 10px;
+    margin-bottom: 20px;
+}
+.card-1>h5{
+    color: #3d3d3d;
+    margin-bottom: 30px;
+    font-weight: bold;
+
+}
+.card-1>p{
+    color: #4D4D4D;
+}
+.card-1>a{
+    text-decoration: none;
+    color: #02549D;
+}
+.head_imgee{
+    width: 40vw;
+    height: auto;
+}
+/* section 2 start */
+.snsc-2{
+    background-color: #F8F9FE;
+}
+.dot{
+    margin-right: 10px;
+    font-size: 10px;
+    color: #FCB619;
+}
+/* section 2 start */
+/* section 3 */
+.section-3{
+    background-color: #F8F9FE;
+}
+
+
+.s3_img{
+
+    max-width: 546px;
+} 
+
+.div_2>h2{
+    margin-top: 60px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+.div_2{
+   padding-left: 65px;
+}
+.div_2>.btn_3{
+    margin-bottom: 40px;
+    color: #fff;
+    border-radius: 30px;
+    background-color: #FCB619;
+    display: inline-block;
+    text-decoration: none;
+    padding: 0px 10px;
+    font-size: 15px;
+    
+}
+.div_3{
+    margin-right: 40px;
+}
+.div_3>h2{
+    margin-top: 60px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+.div_3>.btn_3{
+    margin-bottom: 40px;
+    color: #fff;
+    border-radius: 30px;
+    background-color: #FCB619;
+    display: inline-block;
+    text-decoration: none;
+    padding: 0px 10px;
+    font-size: 15px;
+}
+.h2_2{
+    font-weight: 400;
+    font-size: 22px;
+}
+.p_2{
+    color: #575758;
+    margin: 40px 0px;
+}
+.a_2{
+    text-decoration: none;
+    color: #02549D;
+}
+.btn_2-1{
+   margin-top: 60px;
+   margin-bottom: 100px;
+   background-color: #02549D;
+   
+}
+/* section-3 end */
+.clients-area{
+   padding: 60px 0px;
+}
+.clients-tex:nth-child(1){
+    margin-top: 60px;
+}
+.clients-h1{
+    font-weight: bold;
+}
+.clients-p{
+    margin-top: 40px;
+    color:#575758 ;
+}
+/* Clients say start */
+
+/* from part start */
+.form_part{
+    background-color:  #F8F9FE;
+}
+.form_yy > div > input{
+    padding: 15px 20px;
+    border: none;
+}
+.form_yy > div >textarea{
+    border: none;
+    padding: 5px 20px;
+}
+.profile_img{
+    height: 150px;
+    width: 150px;
+}
+.btn_24{
+    margin-top: 30px;
+    background-color: #02549D;
+    padding: 10px 12px;
+    border-radius: 8px;
+}
+.t_2{
+    margin-left: 20px;
+}
+.t_2>a{
+    text-decoration: none;
+    color: #FF554A;
+    font-size: 18px;
+}
+.bg_4{
+    background-color: #02549D;
+    padding: 10px;
+    color: #fff;
+
+}
+.bg_6{
+    background-color: #02549D;
+    padding: 10px 11px;
+    color: #fff;
+
+}
+.bg_5{
+    background-color: #02549D;
+    padding: 10px 13px;
+    color: #fff;
+}
+.sbe{
+    background-color: #172B3A;
+    border: none;
+}
+/* from part end */
+/* footer start */
+footer{
+    background-color: #00111F;
+    color: #fff;
+}
+.an-5>a{
+    text-decoration: none;
+    color: #ffff;
+    margin-bottom: 10px;
+}
+.sbc-2{
+    background-color:#02549D;
+    border: none;
+    font-size: 18px;
+}
+.ctng-1{
+    background-color: #152837;
+    padding: 10px 13px;
+}
+.ctng-2{
+    background-color: #152837;
+    padding: 10px 11px;
+    
+}
+.ctng-3{
+    background-color: #152837;
+   padding: 10px;
+}
+.ctng-4{
+    background-color: #152837;
+    padding: 10px 10px;
+   
+}
+.end{
+    background-color: #192935;
+    color: #ffff;
+}
+/* footer end */
+
+
+
+
+/* 
+####################
+    career start 
+#####################*/
+#bo p{
+    margin-bottom: 0;
+}
+.nv_con{
+    margin: 0px 30px;
+}
+.nav_career{
+    background-color: #597DFC;
+    border-radius: 11px;
+    margin-top: 40px;
+    padding: 17px 30px;
+}
+.logo_career{
+    height: 35px;
+    width: auto;
+    
+}
+.logo_bg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 11px;
+    height: 38px;
+    width: 40px;
+    background-color: #E0E6F9;
+}
+.fd{
+    margin-bottom: 0px;
+    color: #fff;
+}
+.hed_img{
+    width: 93vw;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+.z_img{
+    height: 70px;
+    width: auto;
+}
+.z_bg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 11px;
+    height: 78px;
+    width: 80px;
+    background-color: #E0E6F9;
+}
+.car_fds{
+    font-size: 13px;
+    color: gray;
+}
+.hea_r{
+    position: relative;
+}
+.z_body{
+    margin: auto;
+    bottom: -240px;
+    width: 83vw;
+    border-radius: 10px;
+    position: absolute;
+    z-index: 11;
+    padding: 0px 50px;
+    box-shadow: 0px 2px 3px #96969623;
+}
+.Explore_btn{
+    box-shadow: 0px 10px 10px #E6EBFE;
+}
+/* 
+####################
+    career end 
+#####################*/

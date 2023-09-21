@@ -1,0 +1,22 @@
+@media screen and (max-width: 1199px) {
+    .s3_img {
+      max-width: 456px;
+    }
+  }
+  @media screen and (max-width:  991px) {
+    .s3_img {
+      width: 336px;
+      height: 336px;
+    }
+  }
+@media screen and (max-width: 768px){
+  .head_imgee{
+    min-width: 90vw;
+  }
+}
+@media screen and (max-width: 768px){
+  .z_body{
+    bottom: -350px;
+  
+  }
+}
